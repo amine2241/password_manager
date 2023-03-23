@@ -1,1 +1,2 @@
 # password_manager
+The main function of this program is to prompt the user to enter the name of a certain website, the email address they use to log in to this website, and their password. The program then stores this information in a JSON file so that the user can access it later. I developed the program using the tkinter GUI, which provides the user with a graphical interface for entering their information. The user can also generate a strong password and save it under the name of the website they intend to use it for.
